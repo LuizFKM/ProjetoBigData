@@ -1,0 +1,7 @@
+﻿periodo_covid,total_internamentos,media_diaria_internamentos,mediana_diaria_internamentos,desvio_padrao_diario,temperatura_media,pm25_medio,quantidade_dias
+pre_pandemia_historico,7491,2.199,2.0,1.913,16.532,7.107,3406
+pre_pandemia_recente,2472,2.258,2.0,1.853,17.234,8.129,1095
+inicio_2020_pre_marco,50,0.833,1.0,0.96,19.785,6.599,60
+fase_aguda_pandemia,642,0.957,1.0,1.016,16.387,9.499,671
+transicao_pos_fase_aguda,515,1.411,1.0,1.361,16.074,7.65,365
+pos_fase_critica,847,1.168,1.0,1.192,17.327,9.387,725
